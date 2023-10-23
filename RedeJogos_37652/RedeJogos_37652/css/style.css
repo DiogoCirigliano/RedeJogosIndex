@@ -1,0 +1,323 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Raleway&family=Roboto&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #212121;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+header {
+    display: flex;
+    background-color: rgb(0 0 0 / 21%);
+    justify-content: center;
+}
+
+.logo {
+    width: 55px;
+}
+
+.headercontent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    width: 60%;
+}
+
+.avatar img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: solid 1px black;
+}
+
+.input {
+    height: 20px;
+    width: 50vw;
+    color: rgba(255, 255, 255, 0.781);
+    border: 1px solid rgba(255, 255, 255, 0.781);
+    background-color: transparent;
+    outline: none;
+    border-radius: 2px;
+}
+
+    .input::placeholder {
+        color: rgba(255, 255, 255, 0.781);
+        font-size:14px;
+    }
+
+.entrar {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+    .entrar a {
+        color: rgba(255, 255, 255, 0.911);
+    }
+/*================================= Perfis============================================== */
+.perfis-destaque {
+    width: 950px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.781);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.perfis {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: left;
+    align-items: center;
+    gap: 20px;
+}
+.carregar {
+    font-size: 6px;
+    width: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    height: 30px;
+    border: 1px solid grey;
+}
+/* ===============================================Perfil dinãmico=============== */
+.imglabel img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: 1px solid #05d9e846;
+}
+
+.favoritar {
+    width: 30px;
+    height: 30px;
+    font-size: inherit;
+    overflow: visible;
+    margin-left: auto;
+    fill: white;
+    cursor: grab;
+}
+
+    .favoritar:hover {
+        transition: 1s;
+        fill: #FAC917;
+    }
+
+.titulo p {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.imglabel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    object-fit: cover;
+    gap: 5px;
+}
+
+.perfil {
+    width: 170px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    flex-wrap: nowrap;
+}
+
+.conteudo {
+    width: 160px;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.perfil {
+    -webkit-box-shadow: 17px 13px 29px 0px rgba(33,33,33,1);
+    -moz-box-shadow: 17px 13px 29px 0px rgba(33,33,33,1);
+    box-shadow: 17px 13px 29px 0px rgba(33,33,33,1);
+    color: rgba(255, 255, 255, 0.781);
+    border: 1px solid #424242;
+    border-radius: 0px 10px 0px 10px;
+}
+
+    .perfil:hover {
+        background: #30303042;
+        border-radius: 10px 0px 10px 0px;
+        backdrop-filter: blur(7.5px);
+        -webkit-backdrop-filter: blur(7.5px);
+        border: 1px solid #666666;
+    }
+
+.ul {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+.ds {
+    font-size: 12px;
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    width:160px;
+
+}
+
+.carregar_perfil {
+    display: flex;
+    height: 1px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.progress-container {
+    width: 100px;
+    height: 19px;
+    background-color: #212121;
+    position: relative;
+}
+
+.progress-bar {
+    height: 100%;
+    background-color: #dddddd;
+    position: relative;
+}
+
+.progress {
+    height: 100%;
+    background-color: yellow;
+    width: 100%;
+    transition: width 0.5s ease-in-out;
+}
+
+.estrelas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+/* ===============================================Jogo_destaque dinãmico=============== */
+
+.jogos-destaque {
+    width: 950px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.781);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.jogos {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: left;
+    align-items: center;
+    gap: 20px;
+}
+
+.titulo-jogos p {
+    font-size: 16px;
+}
+
+.fotojogo {
+    width: 100%;
+    height: 90%;
+}
+
+.jogo {
+    width: 170px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    flex-wrap: nowrap;
+}
+
+    .jogo img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 0px 10px 0px 10px;
+    }
+
+.jogo {
+    -webkit-box-shadow: 17px 13px 29px 0px rgba(33,33,33,1);
+    -moz-box-shadow: 17px 13px 29px 0px rgba(33,33,33,1);
+    box-shadow: 17px 13px 29px 0px rgba(33,33,33,1);
+    color: rgba(255, 255, 255, 0.781);
+    border: 1px solid #424242;
+    border-radius: 0px 10px 0px 10px;
+}
+
+    .jogo:hover {
+        background: #30303042;
+        backdrop-filter: blur(7.5px);
+        -webkit-backdrop-filter: blur(7.5px);
+        border: 1px solid #666666;
+    }
+
+.carregar_jogo {
+    height: 1px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+#pnlErroconexao {
+
+    text-align:center;
+    font-size:30px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:100vw;
+    height:100vh;
+}
+
+@media (max-width:600px) {
+    .headercontent {
+        flex-direction: column;
+    }
+    .logo {
+        width: 100px;
+    }
+    .avatar img {
+        width: 80px;
+        height: 80px;
+    }
+    .entrar a 
+    {
+        font-size:26px;
+    }
+    .input
+    {
+        height:44px;
+    }
+
+}

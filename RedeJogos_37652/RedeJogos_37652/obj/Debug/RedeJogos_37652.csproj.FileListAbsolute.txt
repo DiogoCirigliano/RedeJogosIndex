@@ -1,0 +1,270 @@
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\RedeJogos_37652.dll.config
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\RedeJogos_37652.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\RedeJogos_37652.pdb
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csc.exe
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csc.exe.config
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csc.rsp
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csi.exe
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csi.exe.config
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csi.rsp
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Console.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Net.Http.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\vbc.exe
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\vbc.rsp
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.csproj.CopyComplete
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.pdb
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\BouncyCastle.Crypto.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\Google.Protobuf.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\K4os.Hash.xxHash.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\MySql.Data.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Buffers.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.IO.Pipelines.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Memory.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\ZstdSharp.dll
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\BouncyCastle.Crypto.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\Google.Protobuf.pdb
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\Google.Protobuf.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\K4os.Hash.xxHash.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\MySql.Data.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Buffers.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.IO.Pipelines.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Memory.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\RedeJogos_37652\RedeJogos_37652\bin\System.Threading.Tasks.Extensions.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\RedeJogos_37652.dll.config
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\RedeJogos_37652.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\RedeJogos_37652.pdb
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csc.exe
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csc.exe.config
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csc.rsp
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csi.exe
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csi.exe.config
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csi.rsp
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.Managed.Core.targets
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.AppContext.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Collections.Immutable.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Console.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Globalization.Calendars.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.Compression.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.FileSystem.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Net.Http.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Net.Sockets.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Reflection.Metadata.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.ValueTuple.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.XmlDocument.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.XPath.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\vbc.exe
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\vbc.exe.config
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\vbc.rsp
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\VBCSCompiler.exe
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\VBCSCompiler.exe.config
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\BouncyCastle.Crypto.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Google.Protobuf.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.Streams.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Hash.xxHash.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\MySql.Data.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Buffers.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Configuration.ConfigurationManager.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Diagnostics.DiagnosticSource.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.IO.Pipelines.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Memory.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Numerics.Vectors.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Threading.Tasks.Extensions.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\ZstdSharp.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\BouncyCastle.Crypto.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Google.Protobuf.pdb
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Google.Protobuf.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.Streams.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Hash.xxHash.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\MySql.Data.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Buffers.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Diagnostics.DiagnosticSource.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.IO.Pipelines.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Memory.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Numerics.Vectors.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Threading.Tasks.Extensions.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.csproj.AssemblyReference.cache
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.csproj.CoreCompileInputs.cache
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.csproj.CopyComplete
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.dll
+E:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.pdb
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\RedeJogos_37652.dll.config
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\RedeJogos_37652.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\RedeJogos_37652.pdb
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csc.exe
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csc.exe.config
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csc.rsp
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csi.exe
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csi.exe.config
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\csi.rsp
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.Managed.Core.targets
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.AppContext.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Collections.Immutable.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Console.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Globalization.Calendars.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.Compression.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.FileSystem.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Net.Http.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Net.Sockets.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Reflection.Metadata.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.ValueTuple.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.XmlDocument.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.XPath.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\vbc.exe
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\vbc.exe.config
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\vbc.rsp
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\VBCSCompiler.exe
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\roslyn\VBCSCompiler.exe.config
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\BouncyCastle.Crypto.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Google.Protobuf.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.Streams.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Hash.xxHash.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\MySql.Data.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Buffers.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Configuration.ConfigurationManager.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Diagnostics.DiagnosticSource.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.IO.Pipelines.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Memory.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Numerics.Vectors.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Threading.Tasks.Extensions.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\ZstdSharp.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\BouncyCastle.Crypto.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Google.Protobuf.pdb
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Google.Protobuf.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Compression.LZ4.Streams.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\K4os.Hash.xxHash.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\MySql.Data.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Buffers.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Diagnostics.DiagnosticSource.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.IO.Pipelines.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Memory.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Numerics.Vectors.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\System.Threading.Tasks.Extensions.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.csproj.AssemblyReference.cache
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.csproj.CoreCompileInputs.cache
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.csproj.CopyComplete
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.dll
+D:\pw2\Segundo semestre\RedeJogos_37652\RedeJogos_37652\obj\Debug\RedeJogos_37652.pdb
